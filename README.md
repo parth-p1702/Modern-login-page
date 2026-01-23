@@ -1,1 +1,1 @@
-## Best signIn and login page using html, css and js <hr>
+## Best signIn and login page using html, css and js <hr />
